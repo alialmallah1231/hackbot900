@@ -1,0 +1,16 @@
+{
+  "name": "hackbot900",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dbd.js": "^1.9.4",
+    "dotenv": "^8.2.0"
+  }
+}
